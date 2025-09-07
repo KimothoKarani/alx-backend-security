@@ -26,3 +26,4 @@ staticfiles/
 
 # VS Code and IDEs
 .
+.idea/
